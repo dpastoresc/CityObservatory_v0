@@ -3,7 +3,7 @@ import os
 import json
 
 def getRootPath():
-    return os.path.join(os.path.dirname(os.path.dirname(__file__)), 'city-observatory')
+    return os.path.join(os.path.dirname(os.path.dirname(__file__)), 'CityObservatory')
 
 def ZBSShapeFileToJson(shapeFilepath):
     data = gpd.read_file(shapeFilepath)
