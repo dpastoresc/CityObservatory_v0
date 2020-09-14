@@ -1,0 +1,101 @@
+,unplug_stationDistrito,plug_stationDistrito,travels
+0,Arganzuela,Arganzuela,11920
+1,Arganzuela,Centro,15840
+2,Arganzuela,Chamartín,1628
+3,Arganzuela,Chamberí,2561
+4,Arganzuela,Ciudad Lineal,180
+5,Arganzuela,Moncloa-Aravaca,1312
+6,Arganzuela,Puente de Vallecas,334
+7,Arganzuela,Retiro,6888
+8,Arganzuela,Salamanca,4807
+9,Arganzuela,Tetuán,615
+10,Centro,Arganzuela,16427
+11,Centro,Centro,36375
+12,Centro,Chamartín,3465
+13,Centro,Chamberí,12594
+14,Centro,Ciudad Lineal,376
+15,Centro,Moncloa-Aravaca,4826
+16,Centro,Puente de Vallecas,523
+17,Centro,Retiro,10775
+18,Centro,Salamanca,10279
+19,Centro,Tetuán,2691
+20,Chamartín,Arganzuela,1434
+21,Chamartín,Centro,3884
+22,Chamartín,Chamartín,3761
+23,Chamartín,Chamberí,3541
+24,Chamartín,Ciudad Lineal,236
+25,Chamartín,Moncloa-Aravaca,348
+26,Chamartín,Puente de Vallecas,65
+27,Chamartín,Retiro,1969
+28,Chamartín,Salamanca,3250
+29,Chamartín,Tetuán,2077
+30,Chamberí,Arganzuela,2731
+31,Chamberí,Centro,12682
+32,Chamberí,Chamartín,3342
+33,Chamberí,Chamberí,14078
+34,Chamberí,Ciudad Lineal,213
+35,Chamberí,Moncloa-Aravaca,2313
+36,Chamberí,Puente de Vallecas,74
+37,Chamberí,Retiro,3294
+38,Chamberí,Salamanca,6536
+39,Chamberí,Tetuán,3766
+40,Ciudad Lineal,Arganzuela,200
+41,Ciudad Lineal,Centro,328
+42,Ciudad Lineal,Chamartín,220
+43,Ciudad Lineal,Chamberí,207
+44,Ciudad Lineal,Ciudad Lineal,105
+45,Ciudad Lineal,Moncloa-Aravaca,39
+46,Ciudad Lineal,Puente de Vallecas,12
+47,Ciudad Lineal,Retiro,308
+48,Ciudad Lineal,Salamanca,631
+49,Ciudad Lineal,Tetuán,45
+50,Moncloa-Aravaca,Arganzuela,1431
+51,Moncloa-Aravaca,Centro,4752
+52,Moncloa-Aravaca,Chamartín,326
+53,Moncloa-Aravaca,Chamberí,2147
+54,Moncloa-Aravaca,Ciudad Lineal,39
+55,Moncloa-Aravaca,Moncloa-Aravaca,1532
+56,Moncloa-Aravaca,Puente de Vallecas,40
+57,Moncloa-Aravaca,Retiro,872
+58,Moncloa-Aravaca,Salamanca,969
+59,Moncloa-Aravaca,Tetuán,477
+60,Puente de Vallecas,Arganzuela,301
+61,Puente de Vallecas,Centro,389
+62,Puente de Vallecas,Chamartín,96
+63,Puente de Vallecas,Chamberí,56
+64,Puente de Vallecas,Ciudad Lineal,8
+65,Puente de Vallecas,Moncloa-Aravaca,11
+66,Puente de Vallecas,Puente de Vallecas,117
+67,Puente de Vallecas,Retiro,414
+68,Puente de Vallecas,Salamanca,515
+69,Puente de Vallecas,Tetuán,7
+70,Retiro,Arganzuela,6467
+71,Retiro,Centro,10751
+72,Retiro,Chamartín,2061
+73,Retiro,Chamberí,3199
+74,Retiro,Ciudad Lineal,277
+75,Retiro,Moncloa-Aravaca,752
+76,Retiro,Puente de Vallecas,352
+77,Retiro,Retiro,13038
+78,Retiro,Salamanca,9335
+79,Retiro,Tetuán,595
+80,Salamanca,Arganzuela,4644
+81,Salamanca,Centro,10663
+82,Salamanca,Chamartín,3612
+83,Salamanca,Chamberí,6714
+84,Salamanca,Ciudad Lineal,586
+85,Salamanca,Moncloa-Aravaca,965
+86,Salamanca,Puente de Vallecas,393
+87,Salamanca,Retiro,8666
+88,Salamanca,Salamanca,11866
+89,Salamanca,Tetuán,1713
+90,Tetuán,Arganzuela,582
+91,Tetuán,Centro,3085
+92,Tetuán,Chamartín,1941
+93,Tetuán,Chamberí,3797
+94,Tetuán,Ciudad Lineal,47
+95,Tetuán,Moncloa-Aravaca,546
+96,Tetuán,Puente de Vallecas,17
+97,Tetuán,Retiro,590
+98,Tetuán,Salamanca,1527
+99,Tetuán,Tetuán,2587

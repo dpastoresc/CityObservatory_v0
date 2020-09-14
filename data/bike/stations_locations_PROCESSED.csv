@@ -1,0 +1,215 @@
+,name,address,longitude,latitude,id,cod_postal,barrio,distrito
+0,Puerta del Sol A,Puerta del Sol nº 1,-3.70178074,40.41715281,1,28014,Sol,Centro
+1,Puerta del Sol B,Puerta del Sol nº 1,-3.701642,40.417189,2,28014,Sol,Centro
+2,Miguel Moya,Calle Miguel Moya nº 1,-3.7058415,40.4205886,3,28004,Sol,Centro
+3,Plaza Conde Suchil,Plaza del Conde Suchil nº 2-4,-3.7069171,40.4302937,4,28015,Universidad,Chamberí
+4,Malasaña,Calle Manuela Malasaña nº 5,-3.7025875,40.4285524,5,28004,Universidad,Centro
+5,Fuencarral,Calle Fuencarral nº 108,-3.70205,40.42852,6,28004,Universidad,Centro
+6,Colegio Arquitectos,Calle Hortaleza nº 63,-3.698447,40.424148,7,28004,Justicia,Centro
+7,Hortaleza,Calle Hortaleza nº 75,-3.6977715,40.4251906,8,28004,Justicia,Centro
+8,Alonso Martínez,Plaza de Alonso Martínez nº 5,-3.6954403,40.4278682,9,28004,Justicia,Chamberí
+9,Plaza de San Miguel,Plaza de San Miguel nº 9,-3.7095084,40.4156057,10,28005,Palacio,Centro
+10,Marqués de la Ensenada,Calle Marqués de la Ensenada nº 16,-3.69214,40.42533,11,28004,Justicia,Centro
+11,San Andrés,Calle San Andrés nº 18,-3.7035918,40.4269483,12,28004,Universidad,Centro
+12,San Hermenegildo,Calle San Bernardo nº 85,-3.7061931,40.4284246,13,28015,Universidad,Centro
+13,Conde Duque,Calle Conde Duque nº 22,-3.7104417,40.4273264,14,28015,Universidad,Centro
+14,Ventura Rodríguez,Calle Ventura Rodríguez nº 2,-3.713479,40.4260957,15,28008,Argüelles,Moncloa-Aravaca
+15,San Vicente Ferrer,Calle San Vicente Ferrer nº 64,-3.7074453,40.4262383,16,28015,Universidad,Centro
+16,San Bernardo,Calle San Bernardo nº 22,-3.7075065,40.4230721,17,28015,Palacio,Centro
+17,Carlos Cambronero,Plaza de Carlos Cambronero nº 2,-3.7038312,40.4232649,18,28004,Universidad,Centro
+18,Plaza de Pedro Zerolo,Plaza de Pedro Zerolo,-3.6996502,40.4207773,19,28004,Sol,Centro
+19,Prim,Calle Prim nº 2,-3.6954983,40.4218616,20,28004,Justicia,Centro
+20,Banco de España A,Calle Alcalá nº 49,-3.6954615,40.4192342,21,28014,Cortes,Centro
+21,Jacometrezo,Calle Jacometrezo nº 3,-3.7065376,40.4200783,25,28013,Sol,Centro
+22,Santo Domingo,Plaza de Santo Domingo nº 1,-3.7080733,40.4197429,26,28013,Palacio,Centro
+23,Palacio de Oriente,Calle Carlos III nº 1,-3.710692,40.417908,27,28013,Palacio,Centro
+24,Plaza de Celenque A,Plaza de Celenque nº 1,-3.7064809,40.4173114,28,28013,Sol,Centro
+25,Plaza de Celenque B,Plaza de Celenque nº 1,-3.7063837,40.4172781,29,28013,Sol,Centro
+26,Plaza de las Salesas,Plaza de las Salesas 7,-3.694475,40.423855,30,28004,Justicia,Centro
+27,Huertas,Calle Jesús nº 1,-3.6956178,40.4132798,31,28014,Cortes,Centro
+28,Sevilla,Calle Alcalá nº 27,-3.69926,40.4181663,32,28014,Sol,Centro
+29,Marqués de Cubas,Calle del Marqués de Cubas nº 25,-3.6957355,40.4162619,33,28014,Cortes,Centro
+30,San Quintín,Calle Pavía nº 6,-3.711504,40.4192095,34,28013,Palacio,Centro
+31,Calle Mayor,Calle Mayor nº 20,-3.7068969,40.4163638,35,28013,Sol,Centro
+32,Plaza de la Provincia,Plaza de la Provincia nº 1,-3.7061032,40.4150099,36,28012,Sol,Centro
+33,Carretas,Calle Carretas nº 8,-3.7031808,40.4157138,37,28012,Sol,Centro
+34,Jacinto Benavente,Plaza de Jacinto Benavente,-3.7036825,40.4146755,38,28012,Embajadores,Centro
+35,Plaza del Cordón,Plaza del Cordón nº 1,-3.7103285,40.4141931,39,28005,Palacio,Centro
+36,Plaza de Ramales,Plaza de Ramales nº 1,-3.71183,40.4168,40,28013,Palacio,Centro
+37,Plaza San Francisco,Plaza de San Francisco nº 5,-3.7144964,40.4108442,41,28005,Palacio,Centro
+38,Plaza de los Carros,Carrera de San Francisco nº 1,-3.7120734,40.4110406,42,28005,Palacio,Centro
+39,Plaza de la Cebada,Plaza de la Cebada nº 16 ,-3.7088337,40.4112744,43,28005,Palacio,Centro
+40,Conde de Romanones,Plaza del Conde de Romanones nº 9,-3.7049407,40.4138846,44,28012,Embajadores,Centro
+41,Antón Martín,Calle Atocha nº 54,-3.6991147,40.4122047,45,28012,Embajadores,Centro
+42,Santa Isabel,Calle Santa Isabel nº 32,-3.6982318,40.4107085,46,28012,Embajadores,Centro
+43,Jesús y María,Calle Lavapiés nº 34-36,-3.7025024,40.4101564,47,28012,Embajadores,Centro
+44,Plaza de Nelson Mandela,Calle Mesón de Paredes nº 35,-3.7040666,40.4097617,48,28012,Embajadores,Centro
+45,Puerta de Toledo,Glorieta de la Puerta de Toledo nº 1,-3.7110513,40.4070358,49,28005,Imperial,Centro
+46,Ribera de Curtidores,Calle Ribera de Curtidores nº 28,-3.7071259,40.4053153,50,28005,Acacias,Arganzuela
+47,Embajadores 1,Glorieta de Embajadores nº 6,-3.7028265,40.4047851,51,28012,Acacias,Arganzuela
+48,Embajadores 2,Glorieta de Embajadores nº 2,-3.7022591,40.4056107,52,28012,Acacias,Centro
+49,Casa Encendida,Ronda de Atocha nº 34,-3.6992759,40.4060941,53,28012,Palos de Moguer,Centro
+50,Museo Reina Sofía,Calle Santa Isabel nº 57,-3.6933463,40.4083684,54,28012,Embajadores,Centro
+51,Ronda de Atocha,Ronda de Atocha nº 2,-3.6935205,40.4075606,55,28012,Palos de Moguer,Arganzuela
+52,Plaza de Santa Ana,Plaza de Santa Ana nº 10,-3.7007164,40.4144226,56,28012,Embajadores,Centro
+53,Plaza de Lavapiés,Calle Valencia nº 1,-3.7008803,40.4089282,57,28012,Embajadores,Centro
+54,Barceló,Calle Barceló nº 7,-3.700423,40.4266828,58,28004,Universidad,Centro
+55,Plaza de San Ildefonso,Plaza de San Ildefonso nº 3,-3.7020842,40.4239757,59,28004,Universidad,Centro
+56,Plaza del Carmen ,Plaza del Carmen nº 1,-3.7032414,40.4184192,60,28013,Sol,Centro
+57,Santa Cruz del Marcenado,Calle Santa Cruz del Marcenado nº 24,-3.7126299,40.4295658,61,28015,Universidad,Centro
+58,Augusto Figueroa,Calle Augusto Figueroa nº 33,-3.697895,40.4222862,62,28004,Justicia,Centro
+59,Plaza de Juan Pujol,Calle Espíritu Santo nº 30,-3.7043418,40.4255495,63,28004,Universidad,Centro
+60,Plaza de la Independencia,Plaza de la Independencia nº 6,-3.688398,40.419752,64,28001,Jerónimos,Retiro
+61,Narváez,Calle O'Donnell nº 28,-3.6752045,40.4213983,65,28009,Ibiza,Retiro
+62,O'Donnell,Calle O'Donnell nº 50,-3.6724968,40.4213148,66,28009,Ibiza,Retiro
+63,Ibiza,Calle Ibiza nº 62,-3.6708959,40.4179237,67,28009,Ibiza,Retiro
+64,Antonio Maura,Calle Antonio Maura nº 15,-3.6904525,40.4165605,69,28014,Jerónimos,Retiro
+65,Almadén,Calle Almadén nº 28,-3.693225,40.4108472,71,28014,Embajadores,Centro
+66,Espalter,Calle Espalter nº 1,-3.6912023,40.4128372,72,28014,Jerónimos,Retiro
+67,Puerta del Ángel Caído,Avenida de Alfonso XII nº 54,-3.688822,40.409808,73,28014,Jerónimos,Retiro
+68,Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,-3.6779232,40.4153053,74,28009,Jerónimos,Retiro
+69,Doce de Octubre,Calle Doce de Octubre nº 28,-3.6738865,40.4159569,75,28009,Niño Jesús,Retiro
+70,Sainz de Baranda,Calle Doctor Esquerdo nº 99,-3.6691838,40.4157413,76,28007,Niño Jesús,Retiro
+71,Plaza de los Astros,Avenida de Nazaret nº 7,-3.6689089,40.4114475,77,28007,Niño Jesús,Retiro
+72,Puerta del Pacífico ,Avenida de Menéndez Pelayo nº 73,-3.6766813,40.4117627,78,28009,Jerónimos,Retiro
+73,Menéndez Pelayo,Avenida de Menéndez Pelayo nº 90,-3.6784838,40.4082805,79,28007,Pacífico,Retiro
+74,Puerta de Mariano de Cavia,Avenida del Mediterráneo nº 19,-3.6750121,40.4076726,80,28007,Pacífico,Retiro
+75,Conde de Casal,Plaza del Conde de Casal nº 8,-3.670422,40.40635,81,28007,Pacífico,Retiro
+76,Pedro Bosch,Calle Cerro de la Plata nº 2,-3.6744,40.400789,82,28007,Adelfas,Retiro
+77,Puerta de Granada,Avenida de Menéndez Pelayo nº 38,-3.6803874,40.4051451,83,28007,Pacífico,Retiro
+78,Atocha A,Paseo de la Infanta Isabel nº 3,-3.6902255,40.4075685,84,28007,Atocha,Arganzuela
+79,Atocha B,Paseo de la Infanta Isabel nº 3,-3.6901234,40.4074902,85,28007,Atocha,Arganzuela
+80,Cuesta de Moyano,Plaza del Emperador Carlos V nº 11,-3.691987,40.409297,86,28014,Embajadores,Arganzuela
+81,Niño Jesús,Calle Doctor Esquerdo nº 161,-3.6697526,40.4084556,87,28007,Niño Jesús,Retiro
+82,Pío Baroja,Calle Pío Baroja nº 10,-3.6751105,40.4130243,88,28009,Niño Jesús,Retiro
+83,Valderribas,Calle Doctor Esquerdo nº 191,-3.6726019,40.4032501,89,28007,Adelfas,Retiro
+84,Puerta de Madrid,Avenida de Menéndez Pelayo nº 11,-3.680008,40.421501,90,28009,Jerónimos,Retiro
+85,Cibeles,Paseo del Prado nº 1,-3.6926217,40.4186148,91,28014,Cortes,Retiro
+86,Ayala,Calle Ayala nº 44,-3.6832566,40.427736,92,28001,Recoletos,Salamanca
+87,Embajada de Italia,Calle Velázquez nº 75,-3.6838303,40.4313576,93,28006,Castellana,Salamanca
+88,Conde Peñalver,Calle Ayala nº 102,-3.6752024,40.4272582,94,28006,Goya,Salamanca
+89,General Pardiñas,Calle Goya nº 18,-3.6837876,40.4250361,95,28001,Recoletos,Salamanca
+90,Príncipe de Vergara,Calle Hermosilla nº 70,-3.6787441,40.426134,96,28001,Goya,Salamanca
+91,Claudio Coello,Calle Claudio Coello nº 45,-3.6865463,40.4262945,97,28001,Recoletos,Salamanca
+92,Plaza de Colón,Calle Goya nº 1,-3.6893698,40.4257046,98,28001,Recoletos,Salamanca
+93,Biblioteca Nacional,Paseo de Recoletos nº 32-34,-3.6909648,40.422699,99,28001,Justicia,Salamanca
+94,Villanueva,Calle Claudio Coello nº 19,-3.6870548,40.4226584,100,28001,Recoletos,Salamanca
+95,Castelló,Calle Alcalá nº 111,-3.6821793,40.422064,101,28009,Jerónimos,Salamanca
+96,Alcalá,Avenida de Menéndez Pelayo nº 3,-3.6801307,40.4226906,102,28009,Recoletos,Salamanca
+97,Plaza de Felipe II,Plaza de Felipe II,-3.6753567,40.4242625,103,28009,Goya,Salamanca
+98,Alcántara,Calle Alcántara nº 2,-3.6738714,40.4261851,104,28006,Goya,Salamanca
+99,Palacio de Deportes,Calle Goya nº 99,-3.67384,40.42478,105,28009,Goya,Salamanca
+100,Jorge Juan,Calle Jorge Juan nº 131,-3.6691523,40.4231526,106,28009,Goya,Salamanca
+101,Velázquez,Calle Alcalá nº 95,-3.6840229,40.4211802,107,28009,Jerónimos,Salamanca
+102,Ortega y Gasset,Calle Ortega y Gasset nº 6,-3.68653,40.43037,108,28006,Recoletos,Salamanca
+103,Castellana,Paseo de la Castellana nº 4,-3.68958,40.42677,109,28046,Almagro,Salamanca
+104,Serrano,Calle Serrano nº 54,-3.68745,40.42699,110,28001,Recoletos,Salamanca
+105,Colón A,Calle Serrano nº 34,-3.6877227,40.4251002,111,28001,Recoletos,Salamanca
+106,Colón B,Calle Serrano nº 34,-3.687745,40.424963,112,28001,Recoletos,Salamanca
+107,Columela,Calle Serrano nº 6,-3.6884369,40.4215246,113,28001,Recoletos,Salamanca
+108,Mártires Concepcionistas,Calle Mártires Concepcionistas nº 2,-3.6706024,40.4273005,114,28009,Goya,Salamanca
+109,Marqués de Salamanca,Calle José Ortega y Gasset nº 30,-3.6816402,40.4300481,115,28006,Recoletos,Salamanca
+110,Moncloa,Paseo de Moret nº 2,-3.7206893,40.4344969,116,28008,Argüelles,Moncloa-Aravaca
+111,Arcipreste de Hita A,Calle Arcipreste de Hita nº 12,-3.7175435,40.4337322,117,28015,Argüelles,Chamberí
+112,Arcipreste de Hita B,Calle Arcipreste de Hita nº 12,-3.7175115,40.4337036,118,28015,Argüelles,Chamberí
+113,Paseo de Moret,Paseo de Moret nº 11,-3.7246532,40.4325991,119,28008,Casa de Campo,Moncloa-Aravaca
+114,Pintor Rosales,Paseo del Pintor Rosales nº 38,-3.7205129,40.427657,120,28008,Casa de Campo,Moncloa-Aravaca
+115,Quintana,Calle Quintana nº 11-13,-3.7174158,40.4277456,121,28008,Argüelles,Moncloa-Aravaca
+116,Ferraz,Calle Evaristo San Miguel nº 2,-3.7170448,40.4253944,122,28008,Casa de Campo,Moncloa-Aravaca
+117,Plaza de España A,Plaza de España,-3.711603,40.42402,123,28008,Argüelles,Moncloa-Aravaca
+118,Plaza de España B,Plaza de España,-3.711703,40.42412,124,28008,Argüelles,Moncloa-Aravaca
+119,Altamirano,Calle Altamirano nº 24,-3.7188898,40.4309797,125,28008,Argüelles,Moncloa-Aravaca
+120,Juan Martín,Calle Juan Martín el Empecinado nº 14,-3.6882407,40.400781,126,28045,Delicias,Arganzuela
+121,Méndez Álvaro,Calle Méndez Álvaro nº 11,-3.6863218,40.4013216,127,28045,Delicias,Arganzuela
+122,Palos de la Frontera,Calle Palos de la Frontera nº 40,-3.6944768,40.4032208,128,28045,Palos de Moguer,Arganzuela
+123,Santa María de la Cabeza,Paseo de Santa María de la Cabeza nº 58,-3.6987665,40.4017926,129,28045,Acacias,Arganzuela
+124,Santa Engracia 14,Calle Santa Engracia nº 14,-3.6963983,40.4295863,130,28010,Trafalgar,Chamberí
+125,Guzmán el Bueno,Calle Guzmán el Bueno nº 2,-3.7133412,40.4306458,131,28015,Universidad,Chamberí
+126,Manuel Silvela,Calle Manuel Silvela nº 20,-3.6993465,40.4309524,169,28010,Trafalgar,Chamberí
+127,General Martínez Campos ,Calle Fernández de la Hoz nº 29,-3.6948626,40.435285,164,28010,Almagro,Chamberí
+128,General Álvarez de Castro,Calle del General Álvarez de Castro nº 2,-3.7015686,40.4344731,163,28010,Trafalgar,Chamberí
+129,Fernando el Católico,Calle Fernando el Católico nº 19,-3.708439,40.4338516,168,28015,Arapiles,Chamberí
+130,Cea Bermúdez,Calle Cea Bermúdez nº 59,-3.7154329,40.438994,160,28003,Gaztambide,Chamberí
+131,José Abascal,Calle José Abascal nº 33,-3.6982209,40.4385316,161,28003,Almagro,Chamberí
+132,Santa Engracia 127,Calle Santa Engracia nº 127,-3.70164,40.44156,157,28003,Rios Rosas,Chamberí
+133,Bravo Murillo 44,Calle Bravo Murillo nº 44,-3.7039582,40.4412115,156,28003,Vallehermoso,Chamberí
+134,Glorieta de los Cuatro Caminos,Calle Santa Engracia nº 168,-3.7036675,40.4463667,149,28003,Vallehermoso,Chamberí
+135,Raimundo Fernández,Calle Raimundo Fernández Villaverde nº 33-35,-3.7001669,40.447125,150,28020,Rios Rosas,Tetuán
+136,Agustín de Betancourt,Calle María de Guzmán nº 58,-3.6956047,40.4440297,153,28003,Rios Rosas,Chamberí
+137,Plaza de San Juan de la Cruz,Plaza de San Juan de la Cruz nº 11,-3.6927821,40.4415974,158,28003,Rios Rosas,Chamberí
+138,Castellana 106,Paseo de la Castellana nº 106,-3.690861,40.4453307,151,28046,Rios Rosas,Chamartín
+139,Plaza de la República Argentina,Plaza de la República Argentina nº 6-7,-3.6853312,40.445411,152,28002,El Viso,Chamartín
+140,Paseo de la Castellana con Raimundo Fernández,Paseo de la Castellana nº 67,-3.6917932,40.4457414,154,28046,Rios Rosas,Chamberí
+141,José Gutiérrez Abascal ,Calle José Gutiérrez Abascal nº 2,-3.6907784,40.4396792,159,28046,Rios Rosas,Chamartín
+142,Velázquez 130,Calle Velázquez nº 130,-3.682862,40.4379444,162,28006,Castellana,Chamartín
+143,Pº Castellana - Glorieta de Emilio Castelar,Paseo de la Castellana nº 43,-3.6892368,40.4355143,165,28046,Almagro,Chamberí
+144,Castellana 42,Paseo de la Castellana nº 42,-3.6879154,40.4334087,167,28046,Almagro,Salamanca
+145,Diego de León 52,Calle Diego de León nº 52,-3.678492,40.4345973,166,28006,Castellana,Salamanca
+146,Juan Bravo 50,Calle Juan Bravo nº 50,-3.6758555,40.4323655,170,28006,Lista,Salamanca
+147,Ortega y Gasset 87,Calle Ortega y Gasset nº 87,-3.6712823,40.429887,171,28006,Lista,Salamanca
+148,María Francisca 1,Calle María Francisca nº 1,-3.6787169,40.4442258,155,28002,El Viso,Chamartín
+149,Doctor Arce 45,Avenida del Doctor Arce nº 45,-3.6797296,40.4483269,148,28002,El Viso,Chamartín
+150,Serrano 210,Calle Serrano nº 210,-3.6817962,40.4510188,144,28002,El Viso,Chamartín
+151,Paseo de la Habana 42,Paseo de la Habana nº 42,-3.6881689,40.4498613,146,28036,El Viso,Chamartín
+152,Castellana frente a Hermanos Pinzón,Paseo de la Castellana nº 124,-3.6905604,40.4488924,147,28046,Cuatro Caminos,Chamartín
+153,Orense 12,Calle Orense nº 12,-3.695286,40.4480662,145,28020,Cuatro Caminos,Tetuán
+154,General Perón 1,Avenida del General Perón nº 1-4,-3.6990077,40.4527164,142,28020,Cuatro Caminos,Tetuán
+155,General Perón con Poeta Joan Maragall,Avenida del General Perón nº 36,-3.692651,40.4522938,143,28020,Cuatro Caminos,Tetuán
+156,Orense 36,Calle Orense nº 36,-3.6946218,40.4548456,141,28020,Cuatro Caminos,Tetuán
+157,San Germán,Calle del General Yagüe nº 57,-3.7009675,40.4572824,139,28020,Cuatro Caminos,Tetuán
+158,Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,-3.691533,40.4592351,140,28020,Castillejos,Tetuán
+159,Castellana 164,Paseo de la Castellana nº 164,-3.6894151,40.4591366,137,28046,Castillejos,Chamartín
+160,Alberto Alcocer,Avenida de Alberto Alcocer nº 22,-3.684715,40.4585318,138,28036,Hispanoamérica,Chamartín
+161,Paseo de la Habana 63,Paseo de la Habana nº 63,-3.6835926,40.4543852,173,28036,Hispanoamérica,Chamartín
+162,Colombia,Calle Colombia nº 7,-3.6763439,40.4572466,172,28016,Hispanoamérica,Chamartín
+163,Paseo de la Florida,Paseo de la Florida nº 8,-3.7218482,40.4220812,132,28008,Casa de Campo,Moncloa-Aravaca
+164,Metro Pirámides,Paseo de los Olmos nº 28,-3.7108108,40.4034076,133,28005,Acacias,Arganzuela
+165,Paseo de la Esperanza,Paseo de la Esperanza nº 2,-3.7064516,40.4035988,134,28005,Acacias,Arganzuela
+166,Paseo de las Delicias,Paseo de las Delicias nº 92-94,-3.6945025,40.3972616,136,28045,Delicias,Arganzuela
+167,Entrada Matadero,Paseo de la Chopera nº 14,-3.6971829,40.3919385,135,28045,Chopera,Arganzuela
+168,Segovia 26,"Calle Segovia, 26",-3.7135833,40.4138333,174,28005,Palacio,Centro
+169,Segovia 45,"Calle Segovia, 45",-3.717487,40.413736,175,28005,Imperial,Arganzuela
+170,Batalla del Salado,"Pº Sta. Mª Cabeza, 29-31",-3.6959166,40.4044722,176,28045,Palos de Moguer,Arganzuela
+171,Pirámides,"Toledo, 181",-3.7138055,40.4016111,177,28005,Imperial,Arganzuela
+172,Paseo de la Esperanza,"Pº Esperanza, 21",-3.7043611,40.401,178,28005,Acacias,Arganzuela
+173,Embajadores-Cáceres,"Embajadores, 101",-3.6983888,40.39975,179,28045,Chopera,Arganzuela
+174,Delicias,"Bustamante, 1",-3.6935833,40.4008888,180,28045,Delicias,Arganzuela
+175,Puente Praga,"Pº Esperanza, 59",-3.7023918,40.3981798,181,28005,Acacias,Arganzuela
+176,Madrid Río-Yeserías,Pº Yeserías 45,-3.7065277,40.3974444,182,28005,Acacias,Arganzuela
+177,Jaime el Conquistador,"Jaime I el Conquistador, 30",-3.6983055,40.3962222,183,28045,Chopera,Arganzuela
+178,Beata,"Alicante, 3",-3.6937222,40.39425,184,28045,Chopera,Arganzuela
+179,Legazpi,"Bolivar, 3",-3.6941944,40.3914722,185,28045,Legazpi,Arganzuela
+180,Junta Municipal Retiro,Plaza de Daoíz y Velarde,-3.6788343,40.4029202,186,28007,Pacífico,Retiro
+181,Puente de Vallecas,Avda. Albufera 6 con Antonia Calas ,-3.66925,40.3979722,187,28053,San Diego,Puente de Vallecas
+182,Méndez Álvaro,"Retama, 5",-3.6758888,40.3941388,188,28045,Atocha,Arganzuela
+183,Retiro-Ibiza,"Ibiza, 18",-3.6766111,40.41825,189,28009,Ibiza,Retiro
+184,Parque Roma,"Sainz de Baranda, frente al nº 107",-3.6657777,40.4186666,190,28007,Estrella,Retiro
+185,Doctor Esquerdo-Hermosilla,"Hermosilla, 135",-3.669339,40.425635,191,28009,Goya,Salamanca
+186,Marqués de Zafra,"Pº Marqués de Zafra, 24",-3.6653055,40.426,192,28028,Fuente del Berro,Salamanca
+187,Quinta Fuente del Berro,Sancho Dávila esq. Pº Marqués de Zafra,-3.6615277,40.4250833,193,28028,Fuente del Berro,Salamanca
+188,General Pardiñas,"General Pardiñas, 56",-3.6782777,40.4290555,194,28001,Goya,Salamanca
+189,Alcalá-Ventas,"Alejandro González, 1",-3.6638888,40.4301666,195,28028,Fuente del Berro,Salamanca
+190,Puente de Ventas,"Avda. Daroca, 2",-3.6590555,40.4311944,196,28017,Ventas,Ciudad Lineal
+191,Avenida Donostiarra,Virgen de la Alegria 18,-3.6555277,40.4350277,197,28027,Concepción,Ciudad Lineal
+192,Velázquez-Diego de León,"Velázquez, 91",-3.6835833,40.4343333,198,28006,Castellana,Salamanca
+193,Diego de león,"Alonso Heredia, 1",-3.674,40.4346388,199,28028,Lista,Salamanca
+194,Avenida de los Toreros,"Avda. Toreros,3",-3.6714166,40.4318611,200,28028,Lista,Salamanca
+195,Ventas,"Avda. Toreros, 49",-3.6655555,40.4324722,201,28028,Guindalera,Salamanca
+196,Avenida de América 2,Francisco Silvela 86,-3.6772222,40.43725,202,28028,Lista,Salamanca
+197,Avenida de América 1,"Padre Indalecio Hernandez, 1",-3.6754444,40.4392222,203,28002,Prosperidad,Chamartín
+198,Prosperidad,"Suero de Quiñones, 2",-3.6751388,40.4441388,204,28002,Ciudad Jardín,Chamartín
+199,Parque Berlín,"Avenida Concha Espina, 34 ",-3.6780555,40.4515833,205,28016,El Viso,Chamartín
+200,Rubén Darío,Gta. Rubén Darío 2,-3.6915555,40.4331111,206,28010,Almagro,Chamberí
+201,Fernando el Católico,"Fernando el Católico, 61",-3.7149166,40.4343611,207,28015,Gaztambide,Chamberí
+202,Quevedo,"Gta. Quevedo, 5",-3.7046666,40.4336944,208,28015,Arapiles,Chamberí
+203,Canal,"José Abascal, frene al nº 2",-3.7038333,40.4386944,209,28003,Arapiles,Chamberí
+204,Parque Santander,Calle Santander esq. Avda. Filipinas,-3.7080833,40.4411388,210,28003,Vallehermoso,Chamberí
+205,San Francisco de Sales,"General Ampudia, 2",-3.7144722,40.44175,211,28003,Vallehermoso,Chamberí
+206,Cuatro Caminos 2,Doctor Santero 1,-3.7041666,40.4476666,212,28039,Vallehermoso,Tetuán
+207,Estrecho,"Navarra, 1",-3.7032777,40.4535,213,28039,Bellas Vistas,Tetuán
+208,Metro Tetuán,"Marqués de Viana, 3",-3.6989925,40.4607502,214,28039,Berruguete,Tetuán
+209,Remonta,"Azucenas, 1",-3.6973333,40.4630277,215,28039,Valdeacederas,Tetuán
+210,Plaza de Castilla,"Paseo Castellana, 216",-3.6886388,40.4663611,216,28036,Castillejos,Chamartín
+211,Plaza de Castilla 2,Paseo Castellana (Fundación Canal),-3.6887722,40.4656779,217,28046,Castillejos,Chamartín
+212,Tres Cruces,Tres Cruces 7,-3.7026735,40.419674,218,28013,Sol,Centro
+213,Desengaño,Desengaño 1,-3.70239,40.42059,219,28004,Sol,Centro

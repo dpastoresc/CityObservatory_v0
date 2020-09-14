@@ -1,0 +1,8 @@
+venv
+data/trafico/raw_data/07-2020.csv
+data/bike/raw_data
+data/COVID
+data/distritos
+.idea
+__pycache__
+

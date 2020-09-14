@@ -12,38 +12,8 @@ from dash.dependencies import Input, Output
 from app import app
 from apps import app1, app2
 
-navbar = dbc.Navbar(
-    dbc.Container(
-        [
-            html.A(
-                # Use row and col to control vertical alignment of logo / brand
-                dbc.Row(
-                    [
-                        dbc.Col(dbc.NavbarBrand("Madrid City Observatory", className="ml-2")),
-                    ],
-                    align="center",
-                    no_gutters=True,
-                ),
-                href="/apps/app1",
-            ),
-            html.Div([
-                dbc.Nav(
-                    [
-                        dbc.NavLink("City Observatory", active=True, href="/apps/app1"),
-                        dbc.NavLink("About", href="/apps/app2"),
-
-                    ]
-                )
-            ], className='floating menu row'),
-        ]
-    ),
-    color="dark",
-    dark=True,
-    className="mb-4",
-)
-
-app.layout = html.Div(
-    [
+app.layout = html.Div([
+    html.Div([
         dbc.Navbar(
             dbc.Container([
                 html.A(
@@ -54,29 +24,43 @@ app.layout = html.Div(
                         align="center",
                         no_gutters=True,
                     ),
-                    href="/apps/app1",
+                    href="/home",
                 ),
                 # Genera el menu con el componente de bootstrap
                 dbc.Nav(
                     [
-                        dbc.NavLink("City Observatory", active=True, href="/apps/app1", style={'color': 'grey'}),
-                        dbc.NavLink("About", href="/apps/app2", style={'color': 'grey'}),
-                        dbc.NavLink("Contact", href="#", style={'color': 'grey'}),
+                        dbc.NavLink("City Observatory", active=True, href="/home", style={'color': 'grey'}),
+                        dbc.NavLink("About", href="#", style={'color': 'grey'}),
+                        dbc.NavLink(
+                            html.A('Contact', href='mailto:david.pastor@upm.es'
+                                   , style={'color': 'grey'}),
+
+                        ),
 
                     ]
                 )
-            ], className='floating menu row', style={'max-width': '2000px'}),
+            ],
+                className='floating menu row', style={'max-width': '2000px'}
+            ),
             color="dark",
             dark=True,
             className="mb-4",
         ),
+    ], style={'padding-right': '-15px', 'padding-left': '-15px'}
+    ),
 
-        html.Hr(),
+    html.Hr(),
+
+    html.Div([
 
         dcc.Location(id='url', refresh=False),
 
-        html.Div(id='page-content')
-    ], className='container-fluid')
+        html.Div(id='page-content'),
+    ], className='container-fluid'
+    )
+]
+
+)
 
 
 @app.callback(Output('page-content', 'children'),
@@ -84,7 +68,7 @@ app.layout = html.Div(
 def display_page(pathname):
     if pathname == '/':
         return app1.layout
-    if pathname == '/apps/app1':
+    if pathname == '/home':
         return app1.layout
     elif pathname == '/apps/app2':
         return app2.layout

@@ -15,6 +15,7 @@ external_stylesheets = [dbc.themes.LUX]
 app = dash.Dash(__name__, suppress_callback_exceptions=True, external_stylesheets=external_stylesheets)
 server = app.server
 
+app.title = 'City Observatory'
 server.secret_key = os.environ.get('secret_key', 'secret')
 
 app.css.append_css({

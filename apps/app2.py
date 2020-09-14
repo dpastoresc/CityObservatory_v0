@@ -15,17 +15,29 @@ from dash.dependencies import Input, Output, State
 from app import app
 import plotly.express as px
 import pandas as pd
+import numpy as np
+
+
 
 layout = html.Div(
     [
-
-
-
 
         html.Div([
             html.H5('About', className='col-md-12'),
 
         ], className='row'),
+
+        dbc.Row([
+            dbc.Col(
+
+            ),
+            dbc.Col(
+
+            )
+        ]),
+        dbc.Row(
+
+        )
 
     ]
 )
