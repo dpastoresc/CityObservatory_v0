@@ -77,7 +77,7 @@ def display_page(pathname):
         return '404'
 
 
-# START THE SERVER
+#START THE SERVER
 #server = app.server
 #if __name__ == '__main__':
 #    app.run_server(debug=True)

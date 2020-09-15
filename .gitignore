@@ -2,7 +2,9 @@ venv
 data/trafico/raw_data/07-2020.csv
 data/bike/raw_data
 data/COVID
-data/distritos
+data/barrios/barrios.geojson
+data/barrios/distrito_geojson.geojson
+data/barrios/MADRID.json
 .idea
 __pycache__
 

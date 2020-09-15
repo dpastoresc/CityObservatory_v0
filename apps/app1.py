@@ -294,7 +294,7 @@ La reducción de flujos en el transporte tiene que ser entendido desde la hetero
                 # allowfullscreen="true",
                 # allow="geolocation; microphone; camera",
                 src="https://form.jotform.com/202572649501050",
-                height=1000,
+                height=950,
                 width= 700
                 # frameborder="0",
                 #style={#"width": "100%;",
@@ -302,7 +302,8 @@ La reducción de flujos en el transporte tiene que ser entendido desde la hetero
                       # "border": "none;",
                 #       "scrolling": "no"}
             ),
-            style={'margin-bottom':'25px',
+            style={'margin-bottom':'30px',
+                   #'margin-left':'20px',
                    'border-widht':'1px'}
         )
 
